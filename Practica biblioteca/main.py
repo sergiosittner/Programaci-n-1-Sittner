@@ -1,5 +1,5 @@
-titulos = [0]*2
-ejemplares = [0]*2
+titulos = [0]*20
+ejemplares = [0]*20
 
 libros = 0
 salir = False 
